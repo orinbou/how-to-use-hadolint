@@ -99,7 +99,7 @@ hadolint.hadolintPath
 ```
 C:\\Users\\XXXXXXXX\\scoop\\apps\\hadolint\\current\\hadolint
 or
-C:\\Users\XXXXXXXX\\scoop\\apps\\hadolint\\current\\hadolint.exe
+C:\\Users\\XXXXXXXX\\scoop\\apps\\hadolint\\current\\hadolint.exe
 ```
 のように設定する。
 
